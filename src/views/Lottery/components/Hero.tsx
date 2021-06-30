@@ -19,7 +19,7 @@ const ComeBack = styled(Text)`
 `
 
 const StyledHero = styled.div`
-  background-image: linear-gradient(#7645d9, #452a7a);
+  background-image: linear-gradient(#000000, #000000);
   max-height: max-content;
   overflow: hidden;
   ${({ theme }) => theme.mediaQueries.sm} {
