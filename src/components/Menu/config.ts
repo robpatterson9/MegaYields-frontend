@@ -4,7 +4,7 @@ import { ContextApi } from 'contexts/Localization/types'
 const config: (t: ContextApi['t']) => MenuEntry[] = (t) => [
   {
     label: t('Home'),
-    icon: 'TradeIcon',
+    icon: 'HomeIcon',
     href: '/',
   },
   {
@@ -36,30 +36,30 @@ const config: (t: ContextApi['t']) => MenuEntry[] = (t) => [
     href: '/pools',
   },
 
-  {
-    label: t('Teams & Profile'),
-    icon: 'GroupsIcon',
-    items: [
-      {
-        label: t('Leaderboard'),
-        href: '/teams',
-      },
-      {
-        label: t('Task Center'),
-        href: '/profile/tasks',
-      },
-      {
-        label: t('Your Profile'),
-        href: '/profile',
-      },
-    ],
-  },
+  // {
+  //   label: t('Teams & Profile'),
+  //   icon: 'GroupsIcon',
+  //   items: [
+  //     {
+  //       label: t('Leaderboard'),
+  //       href: '/teams',
+  //     },
+  //     {
+  //       label: t('Task Center'),
+  //       href: '/profile/tasks',
+  //     },
+  //     {
+  //       label: t('Your Profile'),
+  //       href: '/profile',
+  //     },
+  //   ],
+  // },
 
-  {
-    label: t('IFO'),
-    icon: 'IfoIcon',
-    href: '/ifo',
-  },
+  // {
+  //   label: t('IFO'),
+  //   icon: 'IfoIcon',
+  //   href: '/ifo',
+  // },
   {
     label: t('More'),
     icon: 'MoreIcon',
