@@ -89,12 +89,12 @@ const Home: React.FC = () => {
 
   return (
     <Page>
-      <Hero>
+         <Cards>
         <Heading as="h1" scale="xl" mb="24px" color="secondary">
           {t('MegaYields')}
         </Heading>
         <Text>{t('MEGAYIELDS IS THE FUTURE!!')}</Text>
-      </Hero>
+        </Cards>
       <div>
         <Cards>
           <FarmStakingCard />
