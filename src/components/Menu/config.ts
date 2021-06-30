@@ -4,7 +4,7 @@ import { ContextApi } from 'contexts/Localization/types'
 const config: (t: ContextApi['t']) => MenuEntry[] = (t) => [
   {
     label: t('Home'),
-    icon: 'HomeIcon',
+    icon: 'IfoIcon',
     href: '/',
   },
   {
@@ -16,7 +16,7 @@ const config: (t: ContextApi['t']) => MenuEntry[] = (t) => [
         href: 'https://exchange.pancakeswap.finance/#/swap',
       },
       {
-        label: t('Liquidity'),
+        label: t('Liquidz'),
         href: 'https://exchange.pancakeswap.finance/#/pool',
       },
       {
