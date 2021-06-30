@@ -4,7 +4,7 @@ import { ContextApi } from 'contexts/Localization/types'
 const config: (t: ContextApi['t']) => MenuEntry[] = (t) => [
   {
     label: t('Home'),
-    icon: 'IfoIcon',
+    icon: 'TradeIcon',
     href: '/',
   },
   {
@@ -12,11 +12,11 @@ const config: (t: ContextApi['t']) => MenuEntry[] = (t) => [
     icon: 'TradeIcon',
     items: [
       {
-        label: t('Exchange'),
+        label: t('Exchangze'),
         href: 'https://exchange.pancakeswap.finance/#/swap',
       },
       {
-        label: t('Liquidz'),
+        label: t('Liquidzzzz'),
         href: 'https://exchange.pancakeswap.finance/#/pool',
       },
       {
@@ -54,15 +54,7 @@ const config: (t: ContextApi['t']) => MenuEntry[] = (t) => [
       },
     ],
   },
-  {
-    label: t('Info'),
-    icon: 'InfoIcon',
-    href: 'https://pancakeswap.info',
-    status: {
-      text: t('New').toLocaleUpperCase(),
-      color: 'success',
-    },
-  },
+
   {
     label: t('IFO'),
     icon: 'IfoIcon',
@@ -74,28 +66,9 @@ const config: (t: ContextApi['t']) => MenuEntry[] = (t) => [
     items: [
       {
         label: t('Contact'),
-        href: 'https://docs.pancakeswap.finance/contact-us',
+        href: 'https://thugorge.com',
       },
-      {
-        label: t('Voting'),
-        href: '/voting',
-      },
-      {
-        label: t('Github'),
-        href: 'https://github.com/pancakeswap',
-      },
-      {
-        label: t('Docs'),
-        href: 'https://docs.pancakeswap.finance',
-      },
-      {
-        label: t('Blog'),
-        href: 'https://pancakeswap.medium.com',
-      },
-      {
-        label: t('Merch'),
-        href: 'https://pancakeswap.creator-spring.com/',
-      },
+     
     ],
   },
 ]
