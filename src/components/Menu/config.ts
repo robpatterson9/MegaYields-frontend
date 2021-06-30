@@ -35,7 +35,7 @@ const config: (t: ContextApi['t']) => MenuEntry[] = (t) => [
     icon: 'PoolIcon',
     href: '/pools',
   },
-  
+
   {
     label: t('Teams & Profile'),
     icon: 'GroupsIcon',
@@ -68,7 +68,6 @@ const config: (t: ContextApi['t']) => MenuEntry[] = (t) => [
         label: t('Contact'),
         href: 'https://thugorge.com',
       },
-     
     ],
   },
 ]
