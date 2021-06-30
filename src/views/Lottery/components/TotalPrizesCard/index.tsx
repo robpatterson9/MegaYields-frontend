@@ -76,9 +76,9 @@ const TotalPrizesCard = () => {
         )}
         <CardHeading>
           <Left>
-            <IconWrapper>
+            {/* <IconWrapper>
               <PancakeRoundIcon />
-            </IconWrapper>
+            </IconWrapper> */}
             <PrizeCountWrapper>
               <Text fontSize="14px" color="textSubtle">
                 {t('Total Pot:')}
