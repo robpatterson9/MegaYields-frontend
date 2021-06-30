@@ -12,7 +12,7 @@ const config: (t: ContextApi['t']) => MenuEntry[] = (t) => [
     icon: 'TradeIcon',
     items: [
       {
-        label: t('Exchangze'),
+        label: t('Exchange'),
         href: 'https://exchange.pancakeswap.finance/#/swap',
       },
       {
