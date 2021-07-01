@@ -63,12 +63,8 @@ const config: (t: ContextApi['t']) => MenuEntry[] = (t) => [
   {
     label: t('More'),
     icon: 'MoreIcon',
-    items: [
-      {
-        label: t('Contact'),
-        href: 'https://thugorge.com',
-      },
-    ],
+    href: 'https://thugorgy.com',
+ 
   },
 ]
 
