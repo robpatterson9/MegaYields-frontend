@@ -65,7 +65,7 @@ const farms: FarmConfig[] = [
   //     97: '',
   //     56: '0xA39Af17CE4a8eb807E076805Da1e2B8EA7D0755b',
   //   },
-  //   token: tokens.cake,
+  //   token: tokens.MEGAYLDZ,
   //   quoteToken: tokens.usdt,
   // },
   // {
@@ -455,7 +455,7 @@ const farms: FarmConfig[] = [
   //     97: '',
   //     56: '0x804678fa97d91B974ec2af3c843270886528a9E6',
   //   },
-  //   token: tokens.cake,
+  //   token: tokens.MEGAYLDZ,
   //   quoteToken: tokens.busd,
   // },
   // {
@@ -1758,7 +1758,7 @@ const farms: FarmConfig[] = [
   //     97: '',
   //     56: '0xFB7E9FE9D13561AdA7131Fa746942a14F7dd4Cf6',
   //   },
-  //   token: tokens.cake,
+  //   token: tokens.MEGAYLDZ,
   //   quoteToken: tokens.wbnb,
   // },
   // {
@@ -2881,7 +2881,7 @@ const farms: FarmConfig[] = [
   //     97: '0x3ed8936cAFDF85cfDBa29Fbe5940A5b0524824F4',
   //     56: '0xA527a61703D82139F8a06Bc30097cC9CAA2df5A6',
   //   },
-  //   token: tokens.cake,
+  //   token: tokens.MEGAYLDZ,
   //   quoteToken: tokens.wbnb,
   // },
   // {
@@ -4112,7 +4112,7 @@ const farms: FarmConfig[] = [
   //     56: '0x7cd05f8b960ba071fdf69c750c0e5a57c8366500',
   //   },
   //   token: tokens.stax,
-  //   quoteToken: tokens.cake,
+  //   quoteToken: tokens.MEGAYLDZ,
   //   isCommunity: true,
   // },
   // {
@@ -4123,7 +4123,7 @@ const farms: FarmConfig[] = [
   //     56: '0x745c4fd226e169d6da959283275a8e0ecdd7f312',
   //   },
   //   token: tokens.nar,
-  //   quoteToken: tokens.cake,
+  //   quoteToken: tokens.MEGAYLDZ,
   //   isCommunity: true,
   // },
   // {
@@ -4134,7 +4134,7 @@ const farms: FarmConfig[] = [
   //     56: '0x2730bf486d658838464a4ef077880998d944252d',
   //   },
   //   token: tokens.nya,
-  //   quoteToken: tokens.cake,
+  //   quoteToken: tokens.MEGAYLDZ,
   //   isCommunity: true,
   // },
   // {
@@ -4145,7 +4145,7 @@ const farms: FarmConfig[] = [
   //     56: '0x970858016C963b780E06f7DCfdEf8e809919BcE8',
   //   },
   //   token: tokens.broobee,
-  //   quoteToken: tokens.cake,
+  //   quoteToken: tokens.MEGAYLDZ,
   //   isCommunity: true,
   // },
   // {
