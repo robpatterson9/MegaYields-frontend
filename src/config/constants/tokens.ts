@@ -3,7 +3,7 @@ const tokens = {
     symbol: 'BNB',
     projectLink: 'https://www.binance.com/',
   },
-  cake: {
+  MEGAYLDZ: {
     symbol: 'MegaYieldz',
     address: {
       56: '0x8f29271102aa06b90f1cf0f4708be7abb83b6299',
