@@ -7,24 +7,24 @@ const config: (t: ContextApi['t']) => MenuEntry[] = (t) => [
     icon: 'HomeIcon',
     href: '/',
   },
-  {
-    label: t('Trade'),
-    icon: 'TradeIcon',
-    items: [
-      {
-        label: t('Exchange'),
-        href: 'https://exchange.pancakeswap.finance/#/swap',
-      },
-      {
-        label: t('Liquidzzzz'),
-        href: 'https://exchange.pancakeswap.finance/#/pool',
-      },
-      {
-        label: t('LP Migration'),
-        href: 'https://v1exchange.pancakeswap.finance/#/migrate',
-      },
-    ],
-  },
+  // {
+  //   label: t('Trade'),
+  //   icon: 'TradeIcon',
+  //   items: [
+  //     {
+  //       label: t('Exchange'),
+  //       href: 'https://exchange.pancakeswap.finance/#/swap',
+  //     },
+  //     {
+  //       label: t('Liquidzzzz'),
+  //       href: 'https://exchange.pancakeswap.finance/#/pool',
+  //     },
+  //     {
+  //       label: t('LP Migration'),
+  //       href: 'https://v1exchange.pancakeswap.finance/#/migrate',
+  //     },
+  //   ],
+  // },
   {
     label: t('Farms'),
     icon: 'FarmIcon',
