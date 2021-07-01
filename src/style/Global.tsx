@@ -13,7 +13,14 @@ const GlobalStyle = createGlobalStyle`
   }
   body {
     background-color: ${({ theme }) => theme.colors.background};
-
+    .dwqKIT .desktop-icon {
+      width: 0px;
+      display: none;
+    }
+      .desktop-icon {
+        width: 0px;
+        display: none;
+  }
     img {
       height: auto;
       max-width: 100%;
