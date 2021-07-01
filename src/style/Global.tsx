@@ -25,6 +25,10 @@ const GlobalStyle = createGlobalStyle`
     width: 0px;
     display: none;
   }
+  .QgNfY {
+    background: #000000;
+  }
+  
     img {
       height: auto;
       max-width: 100%;
