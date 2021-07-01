@@ -4,25 +4,25 @@ const tokens = {
     projectLink: 'https://www.binance.com/',
   },
   cake: {
-    symbol: 'CAKE',
+    symbol: 'MegaYieldz',
     address: {
-      56: '0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82',
-      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+      56: '0x8f29271102aa06b90f1cf0f4708be7abb83b6299',
+      97: '0x8f29271102aa06b90f1cf0f4708be7abb83b6299',
     },
     decimals: 18,
     projectLink: 'https://pancakeswap.finance/',
   },
   adx: {
-    symbol: 'ADX',
+    symbol: 'MegaYieldz',
     address: {
-      56: '0x6bfF4Fb161347ad7de4A625AE5aa3A1CA7077819',
+      56: '0x8f29271102aa06b90f1cf0f4708be7abb83b6299',
       97: '',
     },
     decimals: 18,
     projectLink: 'https://www.adex.network',
   },
   bscpad: {
-    symbol: 'BSCPAD',
+    symbol: 'MegaYieldz',
     address: {
       56: '0x5A3010d4d8D3B5fB49f8B6E57FB9E48063f16700',
       97: '',
@@ -60,7 +60,7 @@ const tokens = {
   orbs: {
     symbol: 'ORBS',
     address: {
-      56: '0xeBd49b26169e1b52c04cFd19FCf289405dF55F80',
+      56: '0x8f29271102aa06b90f1cf0f4708be7abb83b6299',
       97: '',
     },
     decimals: 18,
