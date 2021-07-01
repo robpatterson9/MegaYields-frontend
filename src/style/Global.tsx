@@ -21,6 +21,10 @@ const GlobalStyle = createGlobalStyle`
         width: 0px;
         display: none;
   }
+  .jcNvwq {
+    width: 0px;
+    display: none;
+  }
     img {
       height: auto;
       max-width: 100%;
