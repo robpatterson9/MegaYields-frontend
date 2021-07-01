@@ -4,8 +4,8 @@ import { PoolConfig, PoolCategory } from './types'
 const pools: PoolConfig[] = [
   {
     sousId: 0,
-    stakingToken: tokens.MEGAYLDZ,
-    earningToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
+    earningToken: tokens.cake,
     contractAddress: {
       97: '0xd3af5fe61dbaf8f73149bfcfa9fb653ff096029a',
       56: '0x73feaa1eE314F8c655E354234017bE2193C9E24E',
@@ -18,7 +18,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 191,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.adx,
     contractAddress: {
       97: '',
@@ -31,7 +31,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 190,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.suter,
     contractAddress: {
       97: '',
@@ -44,7 +44,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 189,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.bscpad,
     contractAddress: {
       97: '',
@@ -57,7 +57,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 188,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.rabbit,
     contractAddress: {
       97: '',
@@ -70,7 +70,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 187,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.waultx,
     contractAddress: {
       97: '',
@@ -83,7 +83,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 186,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.wex,
     contractAddress: {
       97: '',
@@ -96,7 +96,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 185,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.form,
     contractAddress: {
       97: '',
@@ -109,7 +109,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 184,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.orbs,
     contractAddress: {
       97: '',
@@ -122,7 +122,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 183,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.$dg,
     contractAddress: {
       97: '',
@@ -135,7 +135,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 182,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.woo,
     contractAddress: {
       97: '',
@@ -148,7 +148,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 181,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.woo,
     contractAddress: {
       97: '',
@@ -161,7 +161,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 180,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.htb,
     contractAddress: {
       97: '',
@@ -174,7 +174,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 179,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.jgn,
     contractAddress: {
       97: '',
@@ -187,7 +187,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 178,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.dft,
     contractAddress: {
       97: '',
@@ -200,7 +200,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 177,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.hai,
     contractAddress: {
       97: '',
@@ -213,7 +213,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 176,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.o3,
     contractAddress: {
       97: '',
@@ -226,7 +226,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 175,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.ampl,
     contractAddress: {
       97: '',
@@ -239,7 +239,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 174,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.oddz,
     contractAddress: {
       97: '',
@@ -252,7 +252,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 173,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.bondly,
     contractAddress: {
       97: '',
@@ -265,7 +265,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 172,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.marsh,
     contractAddress: {
       97: '',
@@ -278,7 +278,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 171,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.mbox,
     contractAddress: {
       97: '',
@@ -291,7 +291,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 170,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.ata,
     contractAddress: {
       97: '',
@@ -304,7 +304,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 169,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.mx,
     contractAddress: {
       97: '',
@@ -317,7 +317,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 168,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.bcfx,
     contractAddress: {
       97: '',
@@ -330,7 +330,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 167,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.qkc,
     contractAddress: {
       97: '',
@@ -343,7 +343,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 166,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.ktn,
     contractAddress: {
       97: '',
@@ -356,7 +356,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 165,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.mtrg,
     contractAddress: {
       97: '',
@@ -369,7 +369,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 164,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.tusd,
     contractAddress: {
       97: '',
@@ -382,7 +382,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 163,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.vrt,
     contractAddress: {
       97: '',
@@ -395,7 +395,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 162,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.kalm,
     contractAddress: {
       97: '',
@@ -408,7 +408,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 161,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.ez,
     contractAddress: {
       97: '',
@@ -421,7 +421,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 160,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.kalm,
     contractAddress: {
       97: '',
@@ -435,7 +435,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 159,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.popen,
     contractAddress: {
       97: '',
@@ -448,7 +448,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 158,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.lien,
     contractAddress: {
       97: '',
@@ -461,7 +461,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 157,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.well,
     contractAddress: {
       97: '',
@@ -474,7 +474,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 156,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.deri,
     contractAddress: {
       97: '',
@@ -487,7 +487,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 155,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.chr,
     contractAddress: {
       97: '',
@@ -500,7 +500,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 154,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.cyc,
     contractAddress: {
       97: '',
@@ -513,7 +513,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 153,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.xend,
     contractAddress: {
       97: '',
@@ -527,7 +527,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 152,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.hget,
     contractAddress: {
       97: '',
@@ -541,7 +541,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 151,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.hotcross,
     contractAddress: {
       97: '',
@@ -555,7 +555,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 150,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.rfox,
     contractAddress: {
       97: '',
@@ -569,7 +569,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 149,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.wmass,
     contractAddress: {
       97: '',
@@ -583,7 +583,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 148,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.ubxt,
     contractAddress: {
       97: '',
@@ -597,7 +597,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 147,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.btr,
     contractAddress: {
       97: '',
@@ -611,7 +611,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 146,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.τdoge,
     contractAddress: {
       97: '',
@@ -625,7 +625,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 145,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.pmon,
     contractAddress: {
       97: '',
@@ -639,7 +639,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 144,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.one,
     contractAddress: {
       97: '',
@@ -653,7 +653,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 143,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.fine,
     contractAddress: {
       97: '',
@@ -668,7 +668,7 @@ const pools: PoolConfig[] = [
   {
     sousId: 142,
     stakingToken: tokens.doge,
-    earningToken: tokens.MEGAYLDZ,
+    earningToken: tokens.cake,
     contractAddress: {
       97: '',
       56: '0xbebd44824631b55991fa5f2bf5c7a4ec96ff805b',
@@ -681,7 +681,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 141,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.bmxx,
     contractAddress: {
       97: '',
@@ -695,7 +695,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 140,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.oin,
     contractAddress: {
       97: '',
@@ -709,7 +709,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 139,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.hyfi,
     contractAddress: {
       97: '',
@@ -723,7 +723,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 138,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.kun,
     contractAddress: {
       97: '',
@@ -737,7 +737,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 137,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.math,
     contractAddress: {
       97: '',
@@ -751,7 +751,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 136,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.ust,
     contractAddress: {
       97: '',
@@ -765,7 +765,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 135,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.win,
     contractAddress: {
       97: '',
@@ -779,7 +779,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 134,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.trx,
     contractAddress: {
       97: '',
@@ -793,7 +793,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 133,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.btt,
     contractAddress: {
       97: '',
@@ -807,7 +807,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 132,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.lmt,
     contractAddress: {
       97: '',
@@ -821,7 +821,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 131,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.pnt,
     contractAddress: {
       97: '',
@@ -835,7 +835,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 130,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.xmark,
     contractAddress: {
       97: '',
@@ -849,7 +849,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 129,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.ramp,
     contractAddress: {
       97: '',
@@ -863,7 +863,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 128,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.hakka,
     contractAddress: {
       97: '',
@@ -877,7 +877,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 127,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.pbtc,
     contractAddress: {
       97: '',
@@ -891,7 +891,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 126,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.lien,
     contractAddress: {
       97: '',
@@ -905,7 +905,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 125,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.bbadger,
     contractAddress: {
       97: '',
@@ -919,7 +919,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 124,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.bdigg,
     contractAddress: {
       97: '',
@@ -933,7 +933,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 123,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.bondly,
     contractAddress: {
       97: '',
@@ -947,7 +947,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 122,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.xed,
     contractAddress: {
       97: '',
@@ -961,7 +961,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 121,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.cgg,
     contractAddress: {
       97: '',
@@ -975,7 +975,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 120,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.perl,
     contractAddress: {
       97: '',
@@ -989,7 +989,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 119,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.arpa,
     contractAddress: {
       97: '',
@@ -1003,7 +1003,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 118,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.oddz,
     contractAddress: {
       97: '',
@@ -1017,7 +1017,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 117,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.dexe,
     contractAddress: {
       97: '',
@@ -1031,7 +1031,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 116,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.dfd,
     contractAddress: {
       97: '',
@@ -1045,7 +1045,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 115,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.alpaca,
     contractAddress: {
       97: '',
@@ -1059,7 +1059,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 114,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.τbtc,
     contractAddress: {
       97: '',
@@ -1073,7 +1073,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 113,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.τbtc,
     contractAddress: {
       97: '',
@@ -1087,7 +1087,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 112,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.swingby,
     contractAddress: {
       97: '',
@@ -1100,7 +1100,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 111,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.xed,
     contractAddress: {
       97: '',
@@ -1115,7 +1115,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 110,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.hakka,
     contractAddress: {
       97: '',
@@ -1130,7 +1130,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 109,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.cgg,
     contractAddress: {
       97: '',
@@ -1145,7 +1145,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 108,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.mix,
     contractAddress: {
       97: '',
@@ -1158,7 +1158,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 107,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.suter,
     contractAddress: {
       97: '',
@@ -1171,7 +1171,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 106,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.broobee,
     contractAddress: {
       97: '',
@@ -1184,7 +1184,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 105,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.hzn,
     contractAddress: {
       97: '',
@@ -1197,7 +1197,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 104,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.alpa,
     contractAddress: {
       97: '',
@@ -1210,7 +1210,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 103,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.perl,
     contractAddress: {
       97: '',
@@ -1225,7 +1225,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 102,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.tlm,
     contractAddress: {
       97: '',
@@ -1238,7 +1238,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 101,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.jgn,
     contractAddress: {
       97: '',
@@ -1251,7 +1251,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 100,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.eps,
     contractAddress: {
       97: '',
@@ -1264,7 +1264,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 99,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.arpa,
     contractAddress: {
       97: '',
@@ -1279,7 +1279,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 98,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.itam,
     contractAddress: {
       97: '',
@@ -1292,7 +1292,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 97,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.bondly,
     contractAddress: {
       97: '',
@@ -1307,7 +1307,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 96,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.tko,
     contractAddress: {
       97: '',
@@ -1320,7 +1320,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 95,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.apys,
     contractAddress: {
       97: '',
@@ -1333,7 +1333,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 94,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.hoo,
     contractAddress: {
       97: '',
@@ -1346,7 +1346,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 93,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.oddz,
     contractAddress: {
       97: '',
@@ -1361,7 +1361,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 92,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.easy,
     contractAddress: {
       97: '',
@@ -1374,7 +1374,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 91,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.nrv,
     contractAddress: {
       97: '',
@@ -1387,7 +1387,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 90,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.dego,
     contractAddress: {
       97: '',
@@ -1400,7 +1400,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 89,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.gum,
     contractAddress: {
       97: '',
@@ -1413,7 +1413,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 88,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.pbtc,
     contractAddress: {
       97: '',
@@ -1428,7 +1428,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 87,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.dft,
     contractAddress: {
       97: '',
@@ -1441,7 +1441,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 86,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.swth,
     contractAddress: {
       97: '',
@@ -1454,7 +1454,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 85,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.lien,
     contractAddress: {
       97: '',
@@ -1469,7 +1469,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 84,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.zil,
     contractAddress: {
       97: '',
@@ -1482,7 +1482,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 83,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.pcws,
     contractAddress: {
       97: '',
@@ -1495,7 +1495,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 82,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.bbadger,
     contractAddress: {
       97: '',
@@ -1510,7 +1510,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 81,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.bdigg,
     contractAddress: {
       97: '',
@@ -1525,7 +1525,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 80,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.lto,
     contractAddress: {
       97: '',
@@ -1538,7 +1538,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 79,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.mir,
     contractAddress: {
       97: '',
@@ -1552,7 +1552,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 78,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.mir,
     contractAddress: {
       97: '',
@@ -1567,7 +1567,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 77,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.trade,
     contractAddress: {
       97: '',
@@ -1581,7 +1581,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 76,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.dusk,
     contractAddress: {
       97: '',
@@ -1595,7 +1595,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 75,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.bifi,
     contractAddress: {
       97: '',
@@ -1609,7 +1609,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 74,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.txl,
     contractAddress: {
       97: '',
@@ -1623,7 +1623,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 73,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.cos,
     contractAddress: {
       97: '',
@@ -1637,7 +1637,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 72,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.bunny,
     contractAddress: {
       97: '',
@@ -1651,7 +1651,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 71,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.alice,
     contractAddress: {
       97: '',
@@ -1665,7 +1665,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 70,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.for,
     contractAddress: {
       97: '',
@@ -1679,7 +1679,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 69,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.bux,
     contractAddress: {
       97: '',
@@ -1693,7 +1693,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 68,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.nuls,
     contractAddress: {
       97: '',
@@ -1707,7 +1707,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 67,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.belt,
     contractAddress: {
       97: '',
@@ -1721,7 +1721,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 66,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.ramp,
     contractAddress: {
       97: '',
@@ -1736,7 +1736,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 65,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.bfi,
     contractAddress: {
       97: '',
@@ -1750,7 +1750,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 64,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.dexe,
     contractAddress: {
       97: '',
@@ -1765,7 +1765,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 63,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.bel,
     contractAddress: {
       97: '',
@@ -1780,7 +1780,7 @@ const pools: PoolConfig[] = [
   {
     sousId: 62,
     stakingToken: tokens.tpt,
-    earningToken: tokens.MEGAYLDZ,
+    earningToken: tokens.cake,
     contractAddress: {
       97: '',
       56: '0x0c3D6892aa3b23811Af3bd1bbeA8b0740E8e4528',
@@ -1793,7 +1793,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 61,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.tpt,
     contractAddress: {
       97: '',
@@ -1807,7 +1807,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 60,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.watch,
     contractAddress: {
       97: '',
@@ -1821,7 +1821,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 59,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.xmark,
     contractAddress: {
       97: '',
@@ -1835,7 +1835,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 58,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.bmxx,
     contractAddress: {
       97: '',
@@ -1849,7 +1849,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 57,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.iotx,
     contractAddress: {
       97: '',
@@ -1863,7 +1863,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 56,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.bor,
     contractAddress: {
       97: '',
@@ -1877,7 +1877,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 55,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.bopen,
     contractAddress: {
       97: '',
@@ -1892,7 +1892,7 @@ const pools: PoolConfig[] = [
   {
     sousId: 54,
     stakingToken: tokens.sushi,
-    earningToken: tokens.MEGAYLDZ,
+    earningToken: tokens.cake,
     contractAddress: {
       97: '',
       56: '0xb69b6e390cba1F68442A886bC89E955048DAe7E3',
@@ -1905,7 +1905,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 53,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.dodo,
     contractAddress: {
       97: '',
@@ -1919,7 +1919,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 52,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.swingby,
     contractAddress: {
       97: '',
@@ -1933,7 +1933,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 51,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.bry,
     contractAddress: {
       97: '',
@@ -1947,7 +1947,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 50,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.zee,
     contractAddress: {
       97: '',
@@ -1961,7 +1961,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 49,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.swgb,
     contractAddress: {
       97: '',
@@ -1976,7 +1976,7 @@ const pools: PoolConfig[] = [
   {
     sousId: 48,
     stakingToken: tokens.comp,
-    earningToken: tokens.MEGAYLDZ,
+    earningToken: tokens.cake,
     contractAddress: {
       97: '',
       56: '0xE0565fBb109A3f3f8097D8A9D931277bfd795072',
@@ -1990,7 +1990,7 @@ const pools: PoolConfig[] = [
   {
     sousId: 47,
     stakingToken: tokens.comp,
-    earningToken: tokens.MEGAYLDZ,
+    earningToken: tokens.cake,
     contractAddress: {
       97: '',
       56: '0xc3693e3cbc3514d5d07EA5b27A721F184F617900',
@@ -2003,7 +2003,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 46,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.sfp,
     contractAddress: {
       97: '',
@@ -2017,7 +2017,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 45,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.lina,
     contractAddress: {
       97: '',
@@ -2031,7 +2031,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 44,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.lina,
     contractAddress: {
       97: '',
@@ -2045,7 +2045,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 43,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.lit,
     contractAddress: {
       97: '',
@@ -2059,7 +2059,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 42,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.hget,
     contractAddress: {
       97: '',
@@ -2073,7 +2073,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 41,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.bdo,
     contractAddress: {
       97: '',
@@ -2087,7 +2087,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 40,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.egld,
     contractAddress: {
       97: '',
@@ -2101,7 +2101,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 39,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.ust,
     contractAddress: {
       97: '',
@@ -2115,7 +2115,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 38,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.wsote,
     contractAddress: {
       97: '',
@@ -2129,7 +2129,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 37,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.front,
     contractAddress: {
       97: '',
@@ -2143,7 +2143,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 36,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.helmet,
     contractAddress: {
       97: '',
@@ -2157,7 +2157,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 35,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.btcst,
     contractAddress: {
       97: '',
@@ -2171,7 +2171,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 34,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.bscx,
     contractAddress: {
       97: '',
@@ -2185,7 +2185,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 33,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.ten,
     contractAddress: {
       97: '',
@@ -2199,7 +2199,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 32,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.balbt,
     contractAddress: {
       97: '',
@@ -2213,7 +2213,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 31,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.asr,
     contractAddress: {
       97: '',
@@ -2227,7 +2227,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 30,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.atm,
     contractAddress: {
       97: '',
@@ -2241,7 +2241,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 29,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.og,
     contractAddress: {
       97: '',
@@ -2255,7 +2255,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 28,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.reef,
     contractAddress: {
       97: '',
@@ -2269,7 +2269,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 27,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.ditto,
     contractAddress: {
       97: '',
@@ -2284,7 +2284,7 @@ const pools: PoolConfig[] = [
   {
     sousId: 26,
     stakingToken: tokens.twt,
-    earningToken: tokens.MEGAYLDZ,
+    earningToken: tokens.cake,
     contractAddress: {
       97: '',
       56: '0x0554a5D083Abf2f056ae3F6029e1714B9A655174',
@@ -2297,7 +2297,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 24,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.juv,
     contractAddress: {
       97: '',
@@ -2311,7 +2311,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 25,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.psg,
     contractAddress: {
       97: '',
@@ -2325,7 +2325,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 21,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.vai,
     contractAddress: {
       97: '',
@@ -2340,7 +2340,7 @@ const pools: PoolConfig[] = [
   {
     sousId: 20,
     stakingToken: tokens.bnb,
-    earningToken: tokens.MEGAYLDZ,
+    earningToken: tokens.cake,
     contractAddress: {
       97: '',
       56: '0x555Ea72d7347E82C614C16f005fA91cAf06DCB5a',
@@ -2353,7 +2353,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 19,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.bnb,
     contractAddress: {
       97: '',
@@ -2367,7 +2367,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 18,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.blink,
     contractAddress: {
       97: '',
@@ -2381,7 +2381,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 17,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.blink,
     contractAddress: {
       97: '',
@@ -2396,7 +2396,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 16,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.unfi,
     contractAddress: {
       97: '',
@@ -2410,7 +2410,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 15,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.twt,
     contractAddress: {
       97: '',
@@ -2424,7 +2424,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 14,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.hard,
     contractAddress: {
       97: '',
@@ -2438,7 +2438,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 13,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.broobee,
     contractAddress: {
       97: '',
@@ -2452,7 +2452,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 12,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.stax,
     contractAddress: {
       97: '0xd3af5fe61dbaf8f73149bfcfa9fb653ff096029a',
@@ -2466,7 +2466,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 11,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.nar,
     contractAddress: {
       97: '0xd3af5fe61dbaf8f73149bfcfa9fb653ff096029a',
@@ -2480,7 +2480,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 10,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.nya,
     contractAddress: {
       97: '0xd3af5fe61dbaf8f73149bfcfa9fb653ff096029a',
@@ -2494,7 +2494,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 9,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.ctk,
     contractAddress: {
       97: '0xAfd61Dc94f11A70Ae110dC0E0F2061Af5633061A',
@@ -2508,7 +2508,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 8,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.twt,
     contractAddress: {
       97: '0xAfd61Dc94f11A70Ae110dC0E0F2061Af5633061A',
@@ -2522,7 +2522,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 7,
-    stakingToken: tokens.MEGAYLDZ,
+    stakingToken: tokens.cake,
     earningToken: tokens.inj,
     contractAddress: {
       97: '0xAfd61Dc94f11A70Ae110dC0E0F2061Af5633061A',
