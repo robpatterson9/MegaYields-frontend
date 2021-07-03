@@ -3,8 +3,7 @@ import { PageMeta } from './types'
 
 export const DEFAULT_META: PageMeta = {
   title: 'MegaYields',
-  description:
-  'MegaYields',
+  description: 'MegaYields',
   image: 'https://megayields.netlify.app/images/mega1.png',
 }
 

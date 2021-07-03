@@ -17,10 +17,6 @@ const GlobalStyle = createGlobalStyle`
       width: 0px;
       display: none;
     }
-    .sc-jSFjdj sc-ljsmAU kJmatq gpIDbW {
-      background: #000000;
-    }
-    
     .sc-jSFjdj jxszLn sc-jlZJtj QgNfY {
       background: #000000;
     }

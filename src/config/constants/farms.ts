@@ -4177,7 +4177,6 @@ const farms: FarmConfig[] = [
   //   },
   //   token: tokens.bake,
   //   quoteToken: tokens.wbnb,
-
 ]
 
 export default farms

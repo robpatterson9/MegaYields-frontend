@@ -64,7 +64,6 @@ const config: (t: ContextApi['t']) => MenuEntry[] = (t) => [
     label: t('More'),
     icon: 'MoreIcon',
     href: 'https://pornhub.com',
- 
   },
 ]
 

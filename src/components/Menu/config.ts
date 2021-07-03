@@ -64,7 +64,6 @@ const config: (t: ContextApi['t']) => MenuEntry[] = (t) => [
     label: t('More'),
     icon: 'MoreIcon',
     href: 'https://icobench.com/images/users/louie-cesario-1527623827.jpg',
- 
   },
 ]
 
