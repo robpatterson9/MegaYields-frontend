@@ -7,8 +7,8 @@ const pools: PoolConfig[] = [
     stakingToken: tokens.MEGAYLDZ,
     earningToken: tokens.MEGAYLDZ,
     contractAddress: {
-      97: '0x8f29271102aa06b90f1cf0f4708be7abb83b6299',
-      56: '0x8f29271102aa06b90f1cf0f4708be7abb83b6299',
+      97: '0x1876a6bEe10FE942E7545603Ac0eDEF39d485734',
+      56: '0x1876a6bEe10FE942E7545603Ac0eDEF39d485734',
     },
     poolCategory: PoolCategory.CORE,
     harvest: true,
