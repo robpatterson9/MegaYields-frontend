@@ -12,7 +12,7 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://pancakeswap.finance/',
   },
-  MEGAYLDZ: {
+  MEGA: {
     symbol: 'MegaYieldz',
     address: {
       56: '0x1876a6bEe10FE942E7545603Ac0eDEF39d485734',
