@@ -19,8 +19,8 @@ const farms: FarmConfig[] = [
     pid: 251,
     lpSymbol: 'MEGA-BNB LP',
     lpAddresses: {
-      97: '0x423e31c2d0c30409e02dc72fde3a0737ac5d3006',
-      56: '0x0eD7e52944161450477ee417DE9Cd3a859b14fD0',
+      97: '0x26e7a8ddead6bd0a59448b106e68da314ef00f27',
+      56: '0x26e7a8ddead6bd0a59448b106e68da314ef00f27',
     },
     token: tokens.MEGA,
     quoteToken: tokens.wbnb,
